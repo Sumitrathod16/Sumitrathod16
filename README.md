@@ -162,6 +162,7 @@ Helping businesses build modern digital experiences through:
 - Microservices
 - Redis
 - GraphQL
+- SEO 
 
 ---
 
